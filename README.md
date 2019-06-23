@@ -7,4 +7,6 @@
 1. Build a circuit as shown:
 ![Hardware Setup](/Sketch_Update.png)
 1. Run server by command:
-`python server.py`
+```terminal
+python server.py
+```
